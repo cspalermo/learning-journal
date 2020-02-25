@@ -14,6 +14,11 @@ Our work here is very much procedures based - you follow it and don't deviate.  
 
 ## Top 3 Reminders to Keep Yourself in a Growth Mindset
 
+- [x] Have a visual reminder!  This can be a sticky note, picture, etc.  Mine is a Funko Incredible Hulk a.k.a. don't Hulk out because   you don't understand something!
+- [x] Don't be afraid to ask questions.  
+- [x] Be honest with yourself and your team if you are struggling or don't know how to do something.  
+
+
 - a hashtag creates a H1 Heading
 - 2 hashtags creates a H2 Heading
 
