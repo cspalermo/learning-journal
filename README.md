@@ -20,7 +20,7 @@ Our work here is very much procedures based - you follow it and don't deviate.  
 
 This post inspried by [Atlassion](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-& dragonfly
-`dragonfly`
+&dragonfly
+
 
 
