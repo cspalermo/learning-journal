@@ -20,12 +20,4 @@ Our work here is very much procedures based - you follow it and don't deviate.  
 
 This post inspried by (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-- a hashtag creates a H1 Heading
-- 2 hashtags creates a H2 Heading
 
-1. Markdown is fun
-1. Adrienne is our TA
-1. Ryan is an instructor
-1. Ryan is a student
-
-this is my readme
