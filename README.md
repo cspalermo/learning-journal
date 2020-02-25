@@ -1,4 +1,4 @@
-# Ryan's Learning journal
+# Cathy's Learning journal
 
 ## Markdown notes
 - a hashtag creates a H1 Heading
