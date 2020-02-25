@@ -18,6 +18,7 @@ Our work here is very much procedures based - you follow it and don't deviate.  
 - [x] Don't be afraid to ask questions.  
 - [x] Be honest with yourself and your team if you are struggling or don't know how to do something.  
 
+This post inspried by (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 - a hashtag creates a H1 Heading
 - 2 hashtags creates a H2 Heading
