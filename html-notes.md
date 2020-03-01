@@ -19,3 +19,5 @@ HTML = Structure
 - Do NOT use: br (break) or hr (horizontal rule)  Old and outdated code
 - git add . = add everything or type in name of what you're working on
 git add README.md/
+
+- CODES 

@@ -3,5 +3,7 @@
 - [Computer Setup](computer-setup.md)
 - [Git Github](git-github.md)
 - [html-notes](htmal-notes.md)
+- [css-notes.md](css-notes.md)
+
 
 
