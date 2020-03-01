@@ -5,6 +5,7 @@
 - [html-notes](htmal-notes.md)
 - [css-notes.md](css-notes.md)
 - [JavaScript Notes](java-script-notes.md)
+- [How Computers Work](how-computers-work.md)
 
 
 
