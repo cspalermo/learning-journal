@@ -7,6 +7,6 @@
 - [JavaScript Notes](java-script-notes.md)
 - [How Computers Work](how-computers-work.md)
 - [Function Notes](function.notes.md)
-
+[Loop Notes](loop.notes.md)
 
 
